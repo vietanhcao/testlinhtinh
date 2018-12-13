@@ -5,6 +5,10 @@
 
 }
 
+.sg_content .col-4 ul {
+    min-width: 200px;
+}
+
 .sg_content .col-4 ul li span {
     font-size: 16px;
     color: white;
@@ -86,8 +90,7 @@ body{
     .col-4 {
     width: 100%;
     display: flex;
-    justify-content: normal;
-    margin-left: 25%;
+    justify-content: center;
     margin-bottom:  25px;
     }
     .row {
